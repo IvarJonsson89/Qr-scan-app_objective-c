@@ -1,0 +1,1 @@
+# Qr-scan-app_objective-c
